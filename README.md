@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/avli/nfa-regex.svg?style=svg)](https://circleci.com/gh/avli/nfa-regex)
 ## Intro
 
 The library implements a regular expression engine based on nondeterministic
